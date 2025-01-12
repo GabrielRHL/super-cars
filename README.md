@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/GabrielRHL/super-cars?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/GabrielRHL/super-cars?style=for-the-badge)
 
-<img src="#" alt="Exemplo imagem">
+<img src="./imgs/site-super-cars.png" alt="Exemplo imagem">
 
 > O projeto SUPER CARS é um site simples e moderno aonde são exibidos super carros e algumas informações sobre os mesmos, com animações dinâmicas nas transições de um carro para outro.
 
