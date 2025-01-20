@@ -15,7 +15,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [ ] Responsividade
-- [ ] Adição de mais carros
+- [X] Adição de mais carros
 
 ## 🔨 Funcionalidades
 
